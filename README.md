@@ -1,30 +1,33 @@
 🏦 Java Swing Bank Application
+
 This project is a Java Swing-based desktop banking application that simulates core banking functionalities. It provides a user-friendly interface and essential features for personal banking.
 
+--------------------------------------------------------------------------------------------------------
+
 ✨ Key Features
-🔐 User Login & Password Recovery
-Secure login screen and an option to recover forgotten passwords.
 
-📝 New Account Application
-Allows new users to submit an account application through the system.
+🔐 User Login & Password Recovery — Secure login screen and an option to recover forgotten passwords.
+📝 New Account Application — Allows new users to submit an account application through the system.
+💸 Money Transfer (Havale) — Users can transfer money between accounts securely.
+💵 Deposit & Withdrawal — Enables users to deposit or withdraw money from their accounts.
+🧾 Bill Payment — Pay utility bills quickly and easily.
 
-💸 Money Transfer (Havale)
-Users can transfer money between accounts securely.
-
-💵 Deposit & Withdrawal
-Enables users to deposit or withdraw money from their accounts.
-
-🧾 Bill Payment
-Pay utility bills quickly and easily.
+--------------------------------------------------------------------------------------------------------
 
 🛠️ Technologies Used
+
 Java
+
 Java Swing (GUI)
-Object-Oriented Programming principles
+
+MySQL Database 
+
+--------------------------------------------------------------------------------------------------------
 
 📌 Notes
-This project is designed for educational purposes and does not connect to a real bank database. All transactions are simulated.
+This project is designed for educational purposes and does not connect to a real bank’s live systems. All transactions are simulated using a MySQL database for data storage.
 
+--------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/user-attachments/assets/f92591ce-f0a3-44b1-9cd5-50606761a527)
 
